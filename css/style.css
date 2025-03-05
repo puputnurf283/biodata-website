@@ -26,8 +26,13 @@ header {
 }
 
 nav {
-  background-color: transparent;
+  background-color: #FFFFFF;
   padding: 20px 0;
+  border-bottom: 1px solid #E0E0E0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: block;
 }
 
 .nav-container {
